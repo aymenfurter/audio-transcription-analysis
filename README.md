@@ -1,3 +1,5 @@
+<img src="https://github.com/aymenfurter/audio-transcription-analysis/blob/main/screenshot.png?raw=true">
+
 # Audio Transcription and Analysis
 
 This application captures audio from the user's computer and microphone, transcribes the audio using the Azure OpenAI Whisper model, and performs sentiment analysis, real-time suggestions, emotional intelligence coaching, and conflict resolution using the Azure OpenAI GPT-4 model.
